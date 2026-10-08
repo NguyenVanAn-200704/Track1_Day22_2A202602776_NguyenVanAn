@@ -14,15 +14,9 @@
 | File | Định dạng | Nội dung chi tiết |
 |------|-----------|-------------------|
 | [`NguyenVanAn_Day22_model.xlsx`](./NguyenVanAn_Day22_model.xlsx) | Excel (.xlsx) | **File mô hình tài chính chính thức** — điền đầy đủ cả 6 tab theo đúng chuẩn template `Day22-AI-Product-GTM-Monetization-Model.xlsx`. Mọi công thức tự động tính toán, đèn kiểm tra đạt chuẩn xanh. |
-| [`NguyenVanAn_Day22_onepager.docx`](./NguyenVanAn_Day22_onepager.docx) | Word (.docx) | **One-Pager chính thức dạng Word** — hoàn thiện từ template `Day22-AI-Product-GTM-One-Pager-Template.docx` với đủ 3 khối: Pricing, GTM, Evidence Pack. |
-| [`NguyenVanAn_Day22_onepager.pdf`](./NguyenVanAn_Day22_onepager.pdf) | PDF (.pdf) | **File One-Pager bản in PDF** chuẩn, xuất trực tiếp từ Microsoft Word. |
-| [`Day22-AI-Product-GTM-Monetization-Model.xlsx`](./Day22-AI-Product-GTM-Monetization-Model.xlsx) | Excel (.xlsx) | File template gốc đã được điền đầy đủ số liệu thực chiến. |
-| [`Day22-AI-Product-GTM-One-Pager-Template.docx`](./Day22-AI-Product-GTM-One-Pager-Template.docx) | Word (.docx) | File Word template gốc đã được điền đầy đủ nội dung. |
-| [`NguyenVanAn_Day22_model.md`](./NguyenVanAn_Day22_model.md) | Markdown | Bản thuyết minh chi tiết 5 tab mô hình tài chính, công thức, giải trình kỹ thuật. |
-| [`NguyenVanAn_Day22_onepager.md`](./NguyenVanAn_Day22_onepager.md) | Markdown | Bản One-Pager dạng văn bản Markdown chuẩn GitHub. |
-| [`NguyenVanAn_Day22_onepager.html`](./NguyenVanAn_Day22_onepager.html) | HTML | Bản trình bày web đẹp mắt, responsive, hỗ trợ in ấn. |
-| [`NguyenVanAn_Day22_AI_critique_log.md`](./NguyenVanAn_Day22_AI_critique_log.md) | Markdown | Nhật ký chạy AI Critique với Prompt 4.7.1 (Cost/Job Stress Test) & Prompt 4.7.3 (Channel Reality Check), ghi rõ các quyết định Accept / Reject / Partial. |
-| [`NguyenVanAn_Day22_checklist.md`](./NguyenVanAn_Day22_checklist.md) | Markdown | Bảng tự kiểm tra 10 mục bắt buộc theo Rubric chấm điểm của Lab Day 22. |
+| [`NguyenVanAn_Day22_onepager.pdf`](./NguyenVanAn_Day22_onepager.pdf) | PDF (.pdf) | **File One-Pager bản in PDF** chuẩn nộp bài, đầy đủ 3 khối: Pricing, GTM, Evidence Pack. |
+| [`NguyenVanAn_Day22_AI_critique_log.md`](./NguyenVanAn_Day22_AI_critique_log.md) | Markdown | **Nhật ký AI Critique** chạy Prompt 4.7.1 (Cost/Job Stress Test) & Prompt 4.7.3 (Channel Reality Check), ghi rõ các quyết định Accept / Reject / Partial. |
+| [`NguyenVanAn_Day22_checklist.md`](./NguyenVanAn_Day22_checklist.md) | Markdown | **Checklist tự kiểm tra** 10 mục bắt buộc theo Rubric chấm điểm của Lab Day 22. |
 
 ---
 
